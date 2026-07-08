@@ -5,118 +5,111 @@ AI Engineer | Machine Learning Engineer | AI Solutions Developer
 </h3>
 
 <p align="center">
-Building intelligent systems with Transformers, Large Language Models (LLMs), AI Agents, Computer Vision, and Predictive AI.
+Building intelligent AI systems using Transformers, Machine Learning, and Data-Driven Analytics.
 </p>
 
 ---
 
 ## About Me
 
-I am an AI Engineer passionate about developing intelligent systems that solve real-world problems through machine learning, deep learning, and modern AI technologies.
+I am an AI Engineer pursuing a Master's degree in Artificial Intelligence at King Faisal University. My work focuses on developing intelligent systems that combine advanced machine learning, deep learning, and data analytics to solve real-world challenges across predictive maintenance, sustainability, and industrial applications.
 
-My work spans predictive maintenance, natural language processing, computer vision, AI agents, and enterprise AI solutions. I enjoy transforming research ideas into practical, scalable applications.
-
-Currently pursuing a Master's degree in Artificial Intelligence at King Faisal University.
+My interests include Transformer architectures, predictive analytics, trustworthy AI, and scalable machine learning systems.
 
 ---
 
-## Research & Engineering Interests
+## Research Interests
 
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
 - Transformer Architectures
-- Large Language Models (LLMs)
-- AI Agents
-- Computer Vision
-- Natural Language Processing
 - Predictive Maintenance
+- Data Analytics
+- Sustainability Analytics
 - Explainable AI
-- Trustworthy AI
-- Retrieval-Augmented Generation (RAG)
 
 ---
 
-## Technical Stack
+## Technical Skills
 
 ### Programming
 
 Python • SQL
 
-### AI & Machine Learning
+### Machine Learning
 
-PyTorch • TensorFlow • Scikit-learn • Hugging Face Transformers
+PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy
 
-### LLM Engineering
+### Deep Learning
 
-RAG • MCP • Prompt Engineering • FAISS • SentenceTransformers
+Transformers • CNN • Time-Series Forecasting
 
-### Computer Vision
-
-OpenCV • CNN • UNet
-
-### Backend & Deployment
+### Deployment
 
 FastAPI • REST APIs • Docker • Git
 
 ### Cloud
 
-Google Cloud Platform (Vertex AI • BigQuery • Cloud Storage)
+Google Cloud Platform
 
 ### Databases
 
 PostgreSQL
 
-### Cybersecurity
-
-Certified Ethical Hacker (CEH)
-
 ---
 
-## Featured Projects
+# Featured Projects
 
-### HiTAR-Net
+## HiTAR-Net
+### Transformer-Based Predictive Maintenance
 
-Transformer-based Remaining Useful Life prediction framework for predictive maintenance using NASA C-MAPSS datasets.
+A Transformer-based framework for Remaining Useful Life (RUL) prediction using the NASA C-MAPSS turbofan engine datasets.
+
+### Highlights
+
+- Transformer architecture for industrial time-series prediction
+- Leakage-free engine-aware training pipeline
+- Multi-head self-attention
+- MC Dropout uncertainty estimation
+- Domain adaptation using CORAL
+- Comprehensive evaluation using RMSE, MAE, R², and NASA Score
 
 **Technologies**
 
-PyTorch • Transformers • Time-Series • Predictive AI
+PyTorch • Transformers • Time-Series Analysis • Predictive Maintenance • Deep Learning
 
 ---
 
-### Legal Clause Risk Detection
+## Data-Driven Decarbonization
 
-Transformer-based Legal NLP framework using Legal-BERT and Dynamic Attention Reweighting for automated legal risk analysis.
+Machine learning framework for clustering national CO₂ emission profiles and economic indicators to support sustainable energy transition strategies.
 
-**Technologies**
+### Highlights
 
-Transformers • NLP • Explainable AI • PyTorch
+- Unsupervised machine learning for country clustering
+- Analysis of CO₂ emission patterns
+- Economic indicator integration
+- Sustainable energy transition insights
+- Data-driven policy support
 
----
+**Status**
 
-### Intelligent LMS Agent
-
-AI-powered academic assistant integrating FastAPI, MCP, Retrieval-Augmented Generation (RAG), and Google services.
-
-**Technologies**
-
-LLMs • FastAPI • Gemini • RAG • FAISS
-
----
-
-### Elephant Counting using UNet
-
-Deep learning framework for wildlife monitoring using UAV imagery and density estimation.
+Currently under peer review in **ENERGY (Tech Science Press)**.
 
 **Technologies**
 
-Computer Vision • UNet • PyTorch
+Python • Scikit-learn • Clustering • Data Analytics • Sustainability • Machine Learning
 
 ---
 
 ## Publications
 
-- Transformer-Based Predictive Maintenance Using Industrial Sensor Time-Series Data *(Engineering Applications of Artificial Intelligence — Under Review)*
+- **Data-Driven Decarbonization: Clustering of National CO₂ Emission Profiles and Economic Indicators for Sustainable Energy Transitions**  
+  *Currently under peer review in ENERGY (Tech Science Press).*
 
-- Risk-Aware Transformer with Dynamic Attention Reweighting for Legal Clause Risk Detection *(Manuscript in Preparation)*
+- **Transformer-Based Predictive Maintenance Using Industrial Sensor Time-Series Data**  
+  *Manuscript in preparation for submission.*
 
 ---
 
@@ -130,24 +123,18 @@ Computer Vision • UNet • PyTorch
 
 ## Education
 
-**M.Sc. Artificial Intelligence**
+**Master of Science in Artificial Intelligence**  
+King Faisal University *(Expected 2027)*
 
-King Faisal University
-
-Expected 2027
-
-**B.Sc. Computer Science**
-
-King Faisal University
-
-2022
+**Bachelor of Computer Science**  
+King Faisal University *(2022)*
 
 ---
 
-## Let's Connect
+## Contact
 
-📧 Email: **alkayaliasma@gmail.com**
+**Email:** alkayaliasma@gmail.com
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
+**GitHub:** https://github.com/AsmaAlkayali
 
-🌐 Portfolio: *(Coming Soon)*
+**LinkedIn:** www.linkedin.com/in/asma-alkayali
